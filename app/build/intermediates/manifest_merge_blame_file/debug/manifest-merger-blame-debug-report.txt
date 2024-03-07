@@ -1,0 +1,100 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.deskconn.fusedlocation_api"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+11-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:6:5-78
+11-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:6:22-76
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:7:22-78
+13    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+13-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:8:5-76
+13-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:8:22-74
+14
+15    <application
+15-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:9:5-41:19
+16        android:allowBackup="true"
+16-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:10:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1e13c15cfc6178b5499eac477e1b523b\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:11:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:12:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:13:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:14:9-35
+23        android:theme="@style/Theme.FusedLocationApi" >
+23-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:15:9-54
+24        <activity
+24-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:16:9-25:20
+25            android:name="org.deskconn.fusedlocation_api.MainActivity"
+25-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:17:13-41
+26            android:exported="true" >
+26-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:18:13-36
+27            <intent-filter>
+27-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:20:13-24:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:21:17-69
+28-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:21:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:23:17-77
+30-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:23:27-74
+31            </intent-filter>
+32        </activity>
+33
+34        <service
+34-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:27:9-31:45
+35            android:name="org.deskconn.fusedlocation_api.LocationService"
+35-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:28:13-44
+36            android:enabled="true"
+36-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:29:13-35
+37            android:exported="true" />
+37-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:30:13-36
+38
+39        <receiver
+39-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:33:9-40:20
+40            android:name="org.deskconn.fusedlocation_api.RestartBackgroundService"
+40-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:34:13-53
+41            android:enabled="true"
+41-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:35:13-35
+42            android:exported="true" >
+42-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:36:13-36
+43            <intent-filter>
+43-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:37:13-39:29
+44                <action android:name="restartservice" />
+44-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:38:17-57
+44-->C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:38:25-54
+45            </intent-filter>
+46        </receiver>
+47
+48        <activity
+48-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+49            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+49-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+50            android:exported="false"
+50-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+51            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+51-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+52
+53        <meta-data
+53-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+54            android:name="com.google.android.gms.version"
+54-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+55            android:value="@integer/google_play_services_version" />
+55-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+56    </application>
+57
+58</manifest>

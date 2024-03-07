@@ -1,0 +1,262 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b456dd719f3c7be4f98793a559c905c0\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ae3fae8046951ebf63eea9fb14351c92\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\69be689cffc5a380aad7842ee401bc66\transformed\constraintlayout-2.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\2900a5336c2a1deb38ea4953aff2ee05\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\faa44111229526bad5c7be13f8b79b3c\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1c70a0d1f0578de075873eb4220b9897\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dec2e3e166802d16fdb0fee158664a22\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\7e02889f7bb37e7f7afb4dbb47ff84f4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\d517e8a78c1bf5e4327a2371320c5861\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f405a6eb137f7c06336405a7029ef25b\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f644120f953a24a40b6364cebca8ebdb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dbdfe4ec66fa50c25c449c2a8e5897c8\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\41f40f3315ea899864534d50eadfae90\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\46fa1b782766fe25161c1d97635ef313\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\069b0616645368119e7ac9bf05f1bba4\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\8459cd7a8ad450a5bf8c3b713adf839f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\8159f251c5f260bbab09936fe683b5b3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\67d588317f1e412f15d45fda1d5de7c3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\265c41fdbfafbff340f019684d130338\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\5727a38748b7866dbfba982de07b21b4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\9c813f9c9f032fa1b88deb601f75a081\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\d687a253b5d5cf9028615eb90d0aed6b\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1e13c15cfc6178b5499eac477e1b523b\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\3a24219ac563aedd79946011e61b4ed9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1d6ebf0f9deb52a04f385afb83b5fcc7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ddf7a9413cc9fcec8298333154f03abe\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\edc0d06ce52c5657b8a2e2ee1fabe881\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c6bcf82f9df8a4d534d96977ba60b14f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c933a66146a34adce249fa3a8d7e7d3b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b49c7668a280926dac4edf77cbfd9b5c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\6d93f003f6e4f8162201b39c2f980887\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\2253900e799d023ae159721f909a767c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c679288f91a26442ac00fd019c446535\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\a9360d995f53900be43e052b8a5ce17e\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f3320356e975e61d5cd19f89e8883383\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\cf86fe1095d05a6021ed72d0bdd4abea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\088d5d6106ae2555ac2721e719ff2f3a\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b3bd714a3221a67cb977b4e4ccd42a92\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:4:5-45
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:1-43:12
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:8:22-74
+application
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:9:5-41:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ae3fae8046951ebf63eea9fb14351c92\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ae3fae8046951ebf63eea9fb14351c92\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\69be689cffc5a380aad7842ee401bc66\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\69be689cffc5a380aad7842ee401bc66\transformed\constraintlayout-2.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\faa44111229526bad5c7be13f8b79b3c\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\faa44111229526bad5c7be13f8b79b3c\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dec2e3e166802d16fdb0fee158664a22\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dec2e3e166802d16fdb0fee158664a22\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\7e02889f7bb37e7f7afb4dbb47ff84f4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\7e02889f7bb37e7f7afb4dbb47ff84f4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1e13c15cfc6178b5499eac477e1b523b\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1e13c15cfc6178b5499eac477e1b523b\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1e13c15cfc6178b5499eac477e1b523b\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:15:9-54
+activity#org.deskconn.fusedlocation_api.MainActivity
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:23:27-74
+service#org.deskconn.fusedlocation_api.LocationService
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:27:9-31:45
+	android:enabled
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:30:13-36
+	tools:ignore
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:31:13-42
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:28:13-44
+receiver#org.deskconn.fusedlocation_api.RestartBackgroundService
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:33:9-40:20
+	android:enabled
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:36:13-36
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:34:13-53
+intent-filter#action:name:restartservice
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:37:13-39:29
+action#restartservice
+ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:38:17-57
+	android:name
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml:38:25-54
+uses-sdk
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b456dd719f3c7be4f98793a559c905c0\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b456dd719f3c7be4f98793a559c905c0\transformed\jetified-core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ae3fae8046951ebf63eea9fb14351c92\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ae3fae8046951ebf63eea9fb14351c92\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\69be689cffc5a380aad7842ee401bc66\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\69be689cffc5a380aad7842ee401bc66\transformed\constraintlayout-2.1.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\2900a5336c2a1deb38ea4953aff2ee05\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\2900a5336c2a1deb38ea4953aff2ee05\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\faa44111229526bad5c7be13f8b79b3c\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:18.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\faa44111229526bad5c7be13f8b79b3c\transformed\jetified-play-services-location-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1c70a0d1f0578de075873eb4220b9897\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1c70a0d1f0578de075873eb4220b9897\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dec2e3e166802d16fdb0fee158664a22\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dec2e3e166802d16fdb0fee158664a22\transformed\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\7e02889f7bb37e7f7afb4dbb47ff84f4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\7e02889f7bb37e7f7afb4dbb47ff84f4\transformed\jetified-play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\d517e8a78c1bf5e4327a2371320c5861\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\d517e8a78c1bf5e4327a2371320c5861\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f405a6eb137f7c06336405a7029ef25b\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f405a6eb137f7c06336405a7029ef25b\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f644120f953a24a40b6364cebca8ebdb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f644120f953a24a40b6364cebca8ebdb\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dbdfe4ec66fa50c25c449c2a8e5897c8\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\dbdfe4ec66fa50c25c449c2a8e5897c8\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\41f40f3315ea899864534d50eadfae90\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\41f40f3315ea899864534d50eadfae90\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\46fa1b782766fe25161c1d97635ef313\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\46fa1b782766fe25161c1d97635ef313\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\069b0616645368119e7ac9bf05f1bba4\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\069b0616645368119e7ac9bf05f1bba4\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\8459cd7a8ad450a5bf8c3b713adf839f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\8459cd7a8ad450a5bf8c3b713adf839f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\8159f251c5f260bbab09936fe683b5b3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\8159f251c5f260bbab09936fe683b5b3\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\67d588317f1e412f15d45fda1d5de7c3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\67d588317f1e412f15d45fda1d5de7c3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\265c41fdbfafbff340f019684d130338\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\265c41fdbfafbff340f019684d130338\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\5727a38748b7866dbfba982de07b21b4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\5727a38748b7866dbfba982de07b21b4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\9c813f9c9f032fa1b88deb601f75a081\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\9c813f9c9f032fa1b88deb601f75a081\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\d687a253b5d5cf9028615eb90d0aed6b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\d687a253b5d5cf9028615eb90d0aed6b\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1e13c15cfc6178b5499eac477e1b523b\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1e13c15cfc6178b5499eac477e1b523b\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\3a24219ac563aedd79946011e61b4ed9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\3a24219ac563aedd79946011e61b4ed9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1d6ebf0f9deb52a04f385afb83b5fcc7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\1d6ebf0f9deb52a04f385afb83b5fcc7\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ddf7a9413cc9fcec8298333154f03abe\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\ddf7a9413cc9fcec8298333154f03abe\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\edc0d06ce52c5657b8a2e2ee1fabe881\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\edc0d06ce52c5657b8a2e2ee1fabe881\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c6bcf82f9df8a4d534d96977ba60b14f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c6bcf82f9df8a4d534d96977ba60b14f\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c933a66146a34adce249fa3a8d7e7d3b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c933a66146a34adce249fa3a8d7e7d3b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\0506a74e64f14ee0ef74ec9b6d02ebbd\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b49c7668a280926dac4edf77cbfd9b5c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b49c7668a280926dac4edf77cbfd9b5c\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\6d93f003f6e4f8162201b39c2f980887\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\6d93f003f6e4f8162201b39c2f980887\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\2253900e799d023ae159721f909a767c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\2253900e799d023ae159721f909a767c\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c679288f91a26442ac00fd019c446535\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\c679288f91a26442ac00fd019c446535\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\a9360d995f53900be43e052b8a5ce17e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\a9360d995f53900be43e052b8a5ce17e\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f3320356e975e61d5cd19f89e8883383\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\f3320356e975e61d5cd19f89e8883383\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\cf86fe1095d05a6021ed72d0bdd4abea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\cf86fe1095d05a6021ed72d0bdd4abea\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\088d5d6106ae2555ac2721e719ff2f3a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\088d5d6106ae2555ac2721e719ff2f3a\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b3bd714a3221a67cb977b4e4ccd42a92\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\b3bd714a3221a67cb977b4e4ccd42a92\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\TOUGHBOOK\Desktop\IIT\Projects\Continuous-Updated-Location-Fused-Api-Location-Kotlin\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\febdd7bc905957ad1a7c4afeea63cc07\transformed\jetified-play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\TOUGHBOOK\.gradle\caches\transforms-3\311e97a29168ad6e15641a2197104a06\transformed\jetified-play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
