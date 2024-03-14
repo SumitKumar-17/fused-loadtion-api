@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TOUGHBOOK\\Desktop\\IIT\\Projects\\Continuous-Updated-Location-Fused-Api-Location-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
+            "outputFile": "C:\\Users\\TOUGHBOOK\\Desktop\\IIT\\Projects\\fused-location-api\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\TOUGHBOOK\\.gradle\\caches\\transforms-3\\c933a66146a34adce249fa3a8d7e7d3b\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",

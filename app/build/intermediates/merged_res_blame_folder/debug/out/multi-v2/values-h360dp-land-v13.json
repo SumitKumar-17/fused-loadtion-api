@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TOUGHBOOK\\Desktop\\IIT\\Projects\\Continuous-Updated-Location-Fused-Api-Location-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
+            "outputFile": "C:\\Users\\TOUGHBOOK\\Desktop\\IIT\\Projects\\fused-location-api\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\TOUGHBOOK\\.gradle\\caches\\transforms-3\\ae3fae8046951ebf63eea9fb14351c92\\transformed\\material-1.4.0\\res\\values-h360dp-land-v13\\values-h360dp-land-v13.xml",

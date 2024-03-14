@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\TOUGHBOOK\\Desktop\\IIT\\Projects\\Continuous-Updated-Location-Fused-Api-Location-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
+            "outputFile": "C:\\Users\\TOUGHBOOK\\Desktop\\IIT\\Projects\\fused-location-api\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sq\\values-sq.xml",
             "map": [
                 {
                     "source": "C:\\Users\\TOUGHBOOK\\.gradle\\caches\\transforms-3\\311e97a29168ad6e15641a2197104a06\\transformed\\jetified-play-services-basement-17.5.0\\res\\values-sq\\values.xml",
